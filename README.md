@@ -3,7 +3,9 @@
 
 Random shit I made.\
 \
-This stuff uses firefox gecko driver, so download it first from https://github.com/mozilla/geckodriver/releases.
+This stuff uses firefox gecko driver, so install firefox and gecko driver.\
+\
+Gecko driver can be downloaded [here](https://github.com/mozilla/geckodriver/releases).
 
 
 ## How to actually use it
