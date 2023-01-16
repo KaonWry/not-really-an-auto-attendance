@@ -22,33 +22,12 @@ Go to the project directory
   cd Selenium-ITB-SIX-not-really-auto-attendance
 ```
 
-Create a virtual environment
-````
-  pip install virtualenv
-  python -m venv env
-````
-
-\
-Activate the virtual environment
-- If you use cmd
-````
-  source env/bin/activate.cmd
-````
-- If you use powershell
-````
-  source env/bin/activate.ps1
-````
-- Anything else (you either a mac normie or a linux chad)
-````
-  source env/bin/activate
-````
-
-\
 Install dependencies
 
 ```bash
   pip install -r requirements.txt
 ```
+
 Make auth.txt in the project root folder, put your NIM on the first line and password on the second line (I use nano here, but you can use anything similar like notepad or Vim if you're feeling masochistic)
 
 ````bash
