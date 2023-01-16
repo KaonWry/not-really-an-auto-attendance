@@ -5,6 +5,7 @@ import urllib.request
 from lxml import etree
 driver = webdriver.Firefox()
 
+# Authentication
 f = open('auth.txt', 'r')
 nim = f.readline()
 passwd = f.readline()
