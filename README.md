@@ -1,5 +1,5 @@
 
-# Selenium (not really) auto attendance for ITB
+# (Not really an) auto attendance for ITB
 
 Random shit I made.\
 \
